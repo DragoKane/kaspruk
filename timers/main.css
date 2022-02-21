@@ -1,0 +1,29 @@
+.start{
+    background: red;
+}
+.popbtn{
+    background: rgb(0, 140, 255);
+    font-size: 20px;
+}
+.popit{
+    width: 150px;
+    height: 100px;
+    border: 2px solid black;
+    border-bottom-left-radius: 20px ;
+    border-bottom-right-radius: 20px ;
+    justify-content: center;
+    background: rgb(81, 136, 81);
+    align-items: center;
+    display: none;
+    position: absolute;
+    left: 50%;
+
+}
+.show_popit{
+    display: flex;
+}
+
+.btn_start{
+    background: rgb(0, 140, 255);
+    font-size: 20px;
+}
